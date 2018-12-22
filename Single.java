@@ -1,4 +1,4 @@
-package com.test;
+﻿package com.test;
 
 public class Single {
     //饿汉式
@@ -14,7 +14,7 @@ public class Single {
 	
 	
 	
-	//懒汉式
+	//懒汉式(测试)
 	/*private static Single instance;
 	
 	private Single(){}
